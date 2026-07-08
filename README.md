@@ -1,6 +1,8 @@
-# Hi, I'm Shahnaz 👋
+<p align="center">
+  <img src="banner.png" alt="Banner"/>
+</p>
 
-Computer Science Undergraduate | Machine Learning Enthusiast | GATE 2026 Qualified
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=9&duration=4972&pause=1000&color=D240F7&background=FFD9FF00&width=435&separator=%3C&lines=Full+stack+development++;+Android+Development+;+Machine+Learning)](https://git.io/typing-svg)
 
 - 🎓 B.Tech CSE @ Barak Valley Engineering College
 - 🧠 Research Intern @ IIIT Guwahati
