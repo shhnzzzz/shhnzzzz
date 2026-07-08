@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Shahnaz 👋
 
-<!--
-**shhnzzzz/shhnzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Undergraduate | Machine Learning Enthusiast | GATE 2026 Qualified
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE @ Barak Valley Engineering College
+- 🧠 Research Intern @ IIIT Guwahati
+- 🤖 Interested in AI, Machine Learning & Full Stack Development
+- 🏆 GATE 2026 Qualified (CS)
+- 💻 Solving DSA on LeetCode & Striver A2Z
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+C++ • Python • Java • Kotlin • React • Next.js • Firebase • MySQL • Git
+
+## Current Focus
+
+- React & Next.js
+- Machine Learning
+- DSA
+- Open Source
+
+## Connect
+
+LinkedIn
+Email
+LeetCode
